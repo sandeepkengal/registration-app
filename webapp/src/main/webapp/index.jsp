@@ -14,9 +14,9 @@
     <br>
 <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email" style="color: blue; background-color: #f0f0f0;"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" style="background-color:black" required>
-    <br>
+    <br> 
 <br>
     <label for="email" style="color: blue; background-color: #f0f0f0;"><b>Email Address</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" style="color: red; background-color: #e0e0e0;" required>
