@@ -13,7 +13,12 @@
     <br>
 
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" style="background-color:black" required>
+    <input type="text" placeholder="Enter Email" name="email" id="email" style="background-color:black" width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display="inline-block";
+      border: 1px solid #ccc;
+      box-sizing="border-box" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
